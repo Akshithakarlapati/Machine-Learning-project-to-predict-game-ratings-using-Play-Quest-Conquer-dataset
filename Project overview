@@ -1,0 +1,7 @@
+Project Overview: Play Quest Conquer (PQC) Data Analysis & Rating Prediction
+
+This project focuses on a consulting engagement with Play Quest Conquer (PQC), a Sydney-based global online gaming platform that offers a wide variety of games to its users through a subscription-based model. Users can explore, purchase, play, trade, and express interest in games, creating a dynamic and interactive gaming ecosystem.
+The main goal of this project is to analyze user and game-related data to identify the key factors influencing game ratings. These insights will support PQC in making informed decisions regarding game development, acquisition, promotion, and overall user satisfaction.
+Using the provided dataset, the project involves data exploration, preprocessing, and machine learning model development to estimate Average Ratings of games. Key areas of analysis include game characteristics (such as type, release year, player limits), user engagement (e.g., playtime), and popularity indicators (ownership, trading, and interest levels).
+Additionally, relationships between variables—such as game complexity, engagement, and ratings—are examined to uncover meaningful patterns. The project also emphasizes identifying data quality issues and extracting actionable insights.
+Finally, a predictive model is applied to a separate unlabeled dataset to evaluate performance and demonstrate practical applicability in a real-world scenario.
